@@ -70,7 +70,7 @@ namespace WebApiCrudProject.Controllers
             return Ok();
         }
 
-        public async Task<IActionResult> EmployeeValidation(int id)
+        private async Task<IActionResult> EmployeeValidation(int id)
         {
             if (id == 0)
                 return BadRequest();

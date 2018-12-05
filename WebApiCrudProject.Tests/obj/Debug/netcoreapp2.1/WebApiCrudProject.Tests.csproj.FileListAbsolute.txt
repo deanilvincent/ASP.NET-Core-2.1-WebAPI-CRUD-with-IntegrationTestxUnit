@@ -1,0 +1,17 @@
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-CRUD-with-IntegrationTestxUnit\WebApiCrudProject.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-CRUD-with-IntegrationTestxUnit\WebApiCrudProject.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-CRUD-with-IntegrationTestxUnit\WebApiCrudProject.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-CRUD-with-IntegrationTestxUnit\WebApiCrudProject.Tests\bin\Debug\netcoreapp2.1\WebApiCrudProject.Tests.deps.json
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-CRUD-with-IntegrationTestxUnit\WebApiCrudProject.Tests\bin\Debug\netcoreapp2.1\WebApiCrudProject.Tests.runtimeconfig.json
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-CRUD-with-IntegrationTestxUnit\WebApiCrudProject.Tests\bin\Debug\netcoreapp2.1\WebApiCrudProject.Tests.runtimeconfig.dev.json
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-CRUD-with-IntegrationTestxUnit\WebApiCrudProject.Tests\bin\Debug\netcoreapp2.1\WebApiCrudProject.Tests.dll
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-CRUD-with-IntegrationTestxUnit\WebApiCrudProject.Tests\obj\Debug\netcoreapp2.1\WebApiCrudProject.Tests.csprojAssemblyReference.cache
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-CRUD-with-IntegrationTestxUnit\WebApiCrudProject.Tests\obj\Debug\netcoreapp2.1\WebApiCrudProject.Tests.csproj.CoreCompileInputs.cache
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-CRUD-with-IntegrationTestxUnit\WebApiCrudProject.Tests\obj\Debug\netcoreapp2.1\WebApiCrudProject.Tests.AssemblyInfoInputs.cache
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-CRUD-with-IntegrationTestxUnit\WebApiCrudProject.Tests\obj\Debug\netcoreapp2.1\WebApiCrudProject.Tests.AssemblyInfo.cs
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-CRUD-with-IntegrationTestxUnit\WebApiCrudProject.Tests\bin\Debug\netcoreapp2.1\WebApiCrudProject.Tests.pdb
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-CRUD-with-IntegrationTestxUnit\WebApiCrudProject.Tests\bin\Debug\netcoreapp2.1\WebApiCrudProject.dll
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-CRUD-with-IntegrationTestxUnit\WebApiCrudProject.Tests\bin\Debug\netcoreapp2.1\WebApiCrudProject.pdb
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-CRUD-with-IntegrationTestxUnit\WebApiCrudProject.Tests\obj\Debug\netcoreapp2.1\WebApiCrudProject.Tests.csproj.CopyComplete
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-CRUD-with-IntegrationTestxUnit\WebApiCrudProject.Tests\obj\Debug\netcoreapp2.1\WebApiCrudProject.Tests.dll
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-CRUD-with-IntegrationTestxUnit\WebApiCrudProject.Tests\obj\Debug\netcoreapp2.1\WebApiCrudProject.Tests.pdb
