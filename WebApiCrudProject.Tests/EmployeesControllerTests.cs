@@ -112,7 +112,7 @@ namespace WebApiCrudProject.Tests
         }
 
         [Theory]
-        [InlineData(11)]
+        [InlineData(30)]
         public async Task Update_PutEmployeeDetailByIdNotSavedFromDb_ReturnBadRequest(int id)
         {
             // arrange
@@ -129,6 +129,28 @@ namespace WebApiCrudProject.Tests
 
             // act
             var response = await httpClient.PutAsync($"{ApiUrl}{id}", httpContent);
+
+            // assert
+            Assert.Equal(HttpStatusCode.BadRequest, response.StatusCode);
+        }
+
+        [Theory]
+        [InlineData(19)]
+        public async Task Delete_DeleteEmployeeDetailsByIdSavedFromDb_ReturnOk(int id)
+        {
+            // arrange and act
+            var response = await httpClient.DeleteAsync($"{ApiUrl}{id}");
+
+            // assert
+            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
+        }
+
+        [Theory]
+        [InlineData(30)]
+        public async Task Delete_DeleteEmployeeDetailsByIdNotSavedFromDb_ReturnBadRequest(int id)
+        {
+            // arrange and act
+            var response = await httpClient.DeleteAsync($"{ApiUrl}{id}");
 
             // assert
             Assert.Equal(HttpStatusCode.BadRequest, response.StatusCode);
